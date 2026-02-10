@@ -1,5 +1,5 @@
-﻿namespace Kesomannen.RepoProjectPatcher.Editor {
+namespace Kesomannen.YapYapProjectPatcher.Editor {
     public static class Constants {
-        public const string PackageName = "com.kesomannen.unity-repo-project-patcher";
+        public const string PackageName = "com.kesomannen.unity-yapyap-project-patcher";
     }
 }
