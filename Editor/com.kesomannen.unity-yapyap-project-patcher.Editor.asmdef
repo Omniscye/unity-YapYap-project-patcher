@@ -1,10 +1,10 @@
 {
-    "name": "com.kesomannen.unity-repo-project-patcher.Editor",
-    "rootNamespace": "",
+    "name": "com.kesomannen.unity-yapyap-project-patcher.Editor",
+    "rootNamespace": "Kesomannen.YapYapProjectPatcher.Editor",
     "references": [
-        "GUID:419b14fad59f488e9e1a3c798cff9f89",
-        "GUID:d622a80a03e90ec48afe2a9c4bacce98",
-        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+        "com.nomnom.unity-project-patcher.Editor",
+        "com.nomnom.unity-project-patcher-bepinex.Editor",
+        "UniTask"
     ],
     "includePlatforms": [
         "Editor"
